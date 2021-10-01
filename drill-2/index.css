@@ -1,0 +1,99 @@
+.top-container{
+    /* width: 100%;
+    height: 25vh;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+    display: relative;  */
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+    .vert-rectangle{
+        /* background-color: rgb(121, 34, 161);
+        width: 5vw;
+        height: 100%;
+        display: inline-block;
+        margin-left: 0px;
+        margin-bottom: 0px; */
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+
+    }
+
+    .big-rectangle{
+        /* border-color: black;
+        background-color: white;
+        border: none;
+        border-width: thin;
+        width: 30vw;
+        height: 26vh;
+        /* margin: auto; */
+        /* margin-top: 5vh;
+        box-shadow: 1px 1px 1px 1px rgb(155, 152, 152); */ 
+        height: 200px;
+        width: 400px;
+        display: inline-block;
+        background-color: forestgreen;
+        margin: 0 100px;
+    }
+
+    .dot{
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        background-color: cornflowerblue;
+        display:inline-block;
+    }
+
+.middle-container{
+    border: 5px dotted;
+    /* padding: 10px;
+    border-width: thick;
+    width: 100%;
+    height: 26vh;
+    margin: auto;*/
+    margin-top: 5vh; 
+    width: 100%;
+    border: 5px dotted black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.shadow-rectangle{
+    background-color: wheat;
+    width: 87.5vw;
+    height: 20vh;
+    display:inline-block;
+    margin: 3vh auto;
+    margin-left: 5.25vw;
+    box-shadow: 5px 5px 5px 5px rgb(114, 104, 85);
+
+}
+
+.bottom-container{
+    border-color: black;
+    background-color: white;
+    border: none;
+    border-width: thin;
+    width: 30vw;
+    height: 26vh;
+    margin: auto;
+    margin-top: 5vh;
+    box-shadow: 1px 1px 1px 1px rgb(155, 152, 152);
+}
+
+    .text{
+        color:rgb(76, 43, 226);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 32pt;
+        width: 10vw;
+        padding-left: 22vh;
+        padding-top: 7vh; 
+        text-align: center;
+
+    }
+    
